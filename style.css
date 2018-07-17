@@ -1,0 +1,20 @@
+.header {
+	background:#F0F8FF;
+	padding: 10px;
+	border: 10px solid #87CEFA;
+	margin: 10px;
+}
+.sidebar {
+	background: #E0FFFF;
+	border: 10px solid #ADD8E6;
+	margin: 10px;
+}
+.main {
+	background: #B7DDCD;
+	border: 10px solid #5AB68E;
+	margin: 10px;
+}
+body {
+	text-align: center;
+	background: #FFC0CB;
+}
