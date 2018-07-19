@@ -8,6 +8,7 @@
 	background: #E9B87A;
 	border: 10px solid #E9980D;
 	margin: 10px;
+	background-image: url("stan.gif");
 }
 .main {
 	background: #EADD97;
@@ -15,7 +16,6 @@
 	margin: 10px;
 }
 body {	
-	background-image: url("stan.gif");
 	text-align: center;
 	background: #EFB371;
 }
