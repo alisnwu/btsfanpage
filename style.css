@@ -24,7 +24,7 @@ h1 {
 	color: #C80E0E;
 	font-family: monospace;
 	font-style: oblique;
-	text-shadow:#D78B7F;
+	text-shadow:5px 5px #D78B7F;
 }
 h2 {
 	font-size: 25px;
