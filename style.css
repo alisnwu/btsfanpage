@@ -3,7 +3,6 @@
 	padding: 10px;
 	border: 10px solid #C80E0E;
 	margin: 10px;		
-	background-image: url("stan.gif");
 }
 .sidebar {
 	background: #E9B87A;
@@ -15,10 +14,10 @@
 	border: 10px solid #E6D05C;
 	margin: 10px;
 }
-body {
+body {	
+	background-image: url("stan.gif");
 	text-align: center;
 	background: #EFB371;
-
 }
 h1 {
 	font-size: 50px;
